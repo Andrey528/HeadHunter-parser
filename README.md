@@ -23,3 +23,4 @@
   - Tqdm 4.64.
   - Json.
   - Time.
+  - Tor Browser (должен быть активен).
